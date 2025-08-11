@@ -1,0 +1,95 @@
+1.wap for addition of two numbers
+2.wap to convert Celsius into farenheit.
+3.wap to convert binary to decimal without using loop.
+	      (operator)
+4.wap check leap year using ternary operator.
+5.wap  to check that character is (numeric or alphabet) to ascii.
+6.wap to check number is positive or negative.
+7.wap to find greatest number using three number.
+8.wap to check vowel and consonant.
+9.wap to convert character into opposite case.
+10.wap to calculate square if number is even and calculate cube if number is odd.
+11.wap to check that 3 digit number is anagram or not. (no)
+	(if - else)
+12.wap to check num is even or odd.
+13.find max in five different digit.
+14.wap to check vowel and consonant without using logical operator.
+15.wap to apply grace marks in enter marks otherwise display normal marks.
+(ladder if else)
+16. wap to check vowel and consonant using ladder if else.
+17.wap to check divisibility of number from 3,5and 9 with all combination.
+18.wap to find middle by using three different numbers.
+(assignment)
+Q. atm 
+Q.marksheet
+19.wap to display yes,no and cancel when the user assign y,n,c.
+(switch case)
+20.wap to check even or odd using switch.
+21.wap to check vowel and consonant using switch.
+22.wap to check greatest number.
+(loop)
+23.wap to reverse any digit number.
+24.wap to calculate  square and cube of one digit positive number.
+25.wap to convert binary to decimal.
+26.wap to convert decimal to binary.(no)
+27.wap to find first max,second max, third max in mobile number.(no)
+28.wap to check prime number without using third variable.
+29.wap  to display prime number in Fibonacci series.(no)
+30.10010
+   1001
+   100    (no)
+   10
+   1
+31.ABCDE
+    BCDE
+     CDE
+      DE
+       E
+32.abcde
+   bcde
+   cde
+   de
+   e
+33. 11114
+    1113
+    112
+    11
+    1
+34.12211
+   1212
+   122   (no)
+   12
+   1
+35.   *
+     ***
+    *****
+   *******
+36.12345
+    1234
+     123
+      12
+       1
+37.wap to print series of prime number.(no)
+38.wap to print series of table.
+39.wap to operator the lift into 5th from multi from 1st floor to 5th floor and 5th floor to 1st floor and total lift execute 10 times in hr then show both complete flow of loop where number of hr will be entered by users.  (no)
+(array) (no)
+40.wap  to find second max element in array.
+41.wap  to calculate  sum of even element and odd element in array.
+41.wap to find duplicate element in array but it display once.
+42.wap to display unique element in array.
+43.wap to count frequency of each element of array and also print high frequency element.
+44.wap to sort the element of array using single loop.
+45.wap to convert all array element on another array.
+46.wap to display max prime element in array.
+47.wap to split one array into three different array.
+48.wap to merge three array in one array.
+49.wap to print strig array element in reverse.
+50.wap to check string is palindrome or not.
+51.wap to count frequency of each character in string array for particular element and whole string array.
+52.wap create stack using array.
+53.wap create queue using array.
+54.wap create insertion from beginning ,specific position and last.
+55.wap  create array delete(replace with 0) element from beginning, specific and last.
+56.wap convert jagged array to single dimensional array.
+57.wap to convert single dimensional array to jagged array where minimum two element in row.
+58.wap to sort jagged row element in ascending order.
